@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "DB_CA_5",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
